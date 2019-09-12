@@ -1,2 +1,2 @@
 # Flex-blog
-Projeto do curso
+Projeto do curso Origamid
